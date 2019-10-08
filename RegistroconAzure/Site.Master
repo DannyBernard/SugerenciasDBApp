@@ -19,15 +19,15 @@
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
   <!-- Brand/logo -->
-  <a class="navbar-brand" href="#">Ejemplo con Azure</a>
+  <a class="navbar-brand" href="/Default.aspx">Ejemplo con Azure</a>
   
   <!-- Links -->
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" href="Registros/RegistroSugerencia.aspx">Registro</a>
+      <a class="nav-link" href="/Registros/RegistroSugerencia.aspx">Registro</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="Consulta/CSugerencia.aspx">Consulta</a>
+      <a class="nav-link" href="/Consulta/CSugerencia.aspx">Consulta</a>
     </li>
    
   </ul>
